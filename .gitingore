@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Ignore chat files
+*.txt
+
+# OR more specific (better)
+*_chat.txt
+chat.txt
