@@ -13,7 +13,7 @@ Interactive dashboard built with Python and Streamlit to analyze WhatsApp chat p
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+git clone [https://github.com/yourusername/whatsapp-chat-analyzer.git](https://github.com/Manav-020/Projects/tree/e6957cf9625cf2da7a051478b234db38ee0c8fbf/whatsapp-chat-analyzer)
 cd whatsapp-chat-analyzer
 pip install -r requirements.txt
 ```
