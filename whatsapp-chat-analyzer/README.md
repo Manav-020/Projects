@@ -1,24 +1,24 @@
-# WhatsApp Chat Analysis Dashboard
+# 💬 WhatsApp Chat Analysis Dashboard
 
 Interactive dashboard built with Python and Streamlit to analyze WhatsApp chat patterns and extract insights from conversation data.
 
-## Features
+## ✨ Features
 
-- Total messages, words, media & links count
-- Monthly and daily activity timelines
-- Activity heatmap (day vs time)
-- Busiest users and ghost user detection
-- Word cloud, top words, and emoji analysis
+- 📊 Total messages, words, media & links count
+- 📅 Monthly and daily activity timelines
+- 🔥 Activity heatmap (day vs time)
+- 👥 Busiest users and ghost user detection
+- ☁️ Word cloud, top words, and emoji analysis
 
-## Installation
+## 🚀 Installation
 
 ```bash
-git clone [https://github.com/yourusername/whatsapp-chat-analyzer.git](https://github.com/Manav-020/Projects/tree/e6957cf9625cf2da7a051478b234db38ee0c8fbf/whatsapp-chat-analyzer)
+git clone https://github.com/yourusername/whatsapp-chat-analyzer.git](https://github.com/Manav-020/Projects/tree/094c33811b3b2f3b44ce7302b2eb416cb45b054d/whatsapp-chat-analyzer)
 cd whatsapp-chat-analyzer
 pip install -r requirements.txt
 ```
 
-## Usage
+## 📖 Usage
 
 **1. Export WhatsApp Chat:**
 - Open WhatsApp → Chat → Three dots → More → Export chat → Without Media
@@ -30,15 +30,15 @@ streamlit run app.py
 ```
 
 **3. Analyze:**
-- Upload your exported `.txt` file
-- Select "Overall" or specific user
-- Explore the visualizations
+- 📤 Upload your exported `.txt` file
+- 🎯 Select "Overall" or specific user
+- 📈 Explore the visualizations
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 Python • Streamlit • Pandas • Matplotlib • Seaborn • WordCloud
 
-## requirements.txt
+## 📦 requirements.txt
 
 ```txt
 streamlit
